@@ -1,0 +1,27 @@
+[
+ {
+  "id": "211227683466641408",
+  "name": "Papi the Harpy",
+  "avatar": "https://cdn.discordapp.com/avatars/211227683466641408/44ffb484cfa422c22e2de7be560e7602.png?size=2048",
+  "class": "Scout",
+  "trait": "Athletic",
+  "gold": 1000000,
+  "experience": 0,
+  "level": 1,
+  "inventory": {},
+  "friends": {},
+  "stats": {
+   "maxHealth": 10,
+   "maxMana": 10,
+   "atk": 5,
+   "def": 5,
+   "spd": 5
+  },
+  "equipment": {
+   "weapon": null,
+   "helmet": null,
+   "armour": null,
+   "boots": null
+  }
+ }
+]
