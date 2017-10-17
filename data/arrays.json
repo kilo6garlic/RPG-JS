@@ -1,0 +1,4 @@
+{
+	"classes": ["warrior","mage","scout"],
+	"traits": ["tough","blessed","buff","hardened","athletic","wealthy"]
+}
