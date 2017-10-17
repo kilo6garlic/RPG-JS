@@ -1,0 +1,9 @@
+{
+    "devMode":true,
+    "forceMain":true,
+    "tokens":{
+        "dev":"",
+        "main":""
+    },
+    "inviteLink":""
+}
